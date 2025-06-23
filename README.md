@@ -5,7 +5,7 @@ All conversations are persisted in MongoDB (Atlas).
 
 ---
 
-Tech stack
+# Tech stack
 
 | Layer        | Tech                                   |
 
@@ -35,7 +35,7 @@ cd frontend
 npm install
 npm run dev
 
-API reference:
+# API reference
 
  Method  Endpoint              Description
  ------  --------------------  ---------------------------------
